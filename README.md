@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Ardian
 
-Hi there! I'm a UI/UX and front-end developer with a passion for creating stunning and user-friendly digital experiences. With my expertise in both design and development, I strive to craft solutions that are not only visually appealing but also highly functional and intuitive. I'm constantly exploring new technologies and techniques to enhance my skills and stay at the forefront of the industry.
+Hi there! I'm a UI/UX and front-end developer with a passion for creating stunning and user-friendly digital experiences. With my expertise in both design and development, I strive to craft solutions that are not only visually appealing but also highly functional and intuitive.
 
 Feel free to check out my projects and don't hesitate to reach out if you have any questions or would like to collaborate on something exciting!
+
+### Tools:
+ <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 <!--
 **ardiaanf/ardiaanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
